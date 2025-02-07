@@ -30,6 +30,7 @@ height="80">](https://github.com/SAHILDUDHAL21/libre-PaperWall/releases/download
 
 <p align="center">
   <!-- Screenshots will be added here -->
+  <img src="https://github.com/SAHILDUDHAL21/libre-PaperWall/blob/main/LPW.webp" alt="Libre PaperWall Home Page" width="980" style="border-radius: 30px;"/>
 </p>
 
 ### 🎥 Video Demo
