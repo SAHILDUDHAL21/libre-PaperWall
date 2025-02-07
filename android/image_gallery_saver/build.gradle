@@ -1,0 +1,15 @@
+apply plugin: 'com.android.library'
+
+android {
+    namespace "com.example.image_gallery_saver"
+    compileSdkVersion 33
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 33
+    }
+}
+
+dependencies {
+    implementation "androidx.core:core:1.7.0"
+}
