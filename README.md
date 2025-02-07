@@ -18,13 +18,13 @@ A feature-rich, open-source wallpaper application built with Flutter. Libre Pape
 
 ### 📥 Download
 
-You can download the latest release from our [GitHub Releases](https://github.com/SAHILDUDHAL21/libre-PaperWall/releases) page:
+You can download the latest release from our [GitHub Releases](https://github.com/SAHILDUDHAL21/libre-PaperWall/releases/tag/v1.0.0) page:
 
 #### 🤖 Android
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
 alt="Get it on GitHub" 
-height="80">]()
+height="80">](https://github.com/SAHILDUDHAL21/libre-PaperWall/releases/download/v1.0.0/app-release.apk)
 
 ## 📱 Screenshots & Demo
 
